@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GeekBrains\\SoftwareDeveloper\\Seminar2_Homework\\Task001_Second_Digit\\Task001_Second_Digit.csproj": {}
+    "e:\\GeekBrains\\SoftwareDeveloper\\Seminar2_Homework\\Task001_Second_Digit\\Task001_Second_Digit.csproj": {}
   },
   "projects": {
-    "E:\\GeekBrains\\SoftwareDeveloper\\Seminar2_Homework\\Task001_Second_Digit\\Task001_Second_Digit.csproj": {
+    "e:\\GeekBrains\\SoftwareDeveloper\\Seminar2_Homework\\Task001_Second_Digit\\Task001_Second_Digit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GeekBrains\\SoftwareDeveloper\\Seminar2_Homework\\Task001_Second_Digit\\Task001_Second_Digit.csproj",
+        "projectUniqueName": "e:\\GeekBrains\\SoftwareDeveloper\\Seminar2_Homework\\Task001_Second_Digit\\Task001_Second_Digit.csproj",
         "projectName": "Task001_Second_Digit",
-        "projectPath": "E:\\GeekBrains\\SoftwareDeveloper\\Seminar2_Homework\\Task001_Second_Digit\\Task001_Second_Digit.csproj",
+        "projectPath": "e:\\GeekBrains\\SoftwareDeveloper\\Seminar2_Homework\\Task001_Second_Digit\\Task001_Second_Digit.csproj",
         "packagesPath": "C:\\Users\\Гульцев Денис\\.nuget\\packages\\",
-        "outputPath": "E:\\GeekBrains\\SoftwareDeveloper\\Seminar2_Homework\\Task001_Second_Digit\\obj\\",
+        "outputPath": "e:\\GeekBrains\\SoftwareDeveloper\\Seminar2_Homework\\Task001_Second_Digit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Гульцев Денис\\AppData\\Roaming\\NuGet\\NuGet.Config"
